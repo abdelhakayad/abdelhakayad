@@ -1,12 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdelhak Ayad</h1>
 <h3 align="center">A passionate frontend developer from Algeria</h3>
 
-- 🔭 I’m currently working on [PASSWORD-GENERATOR](https://abdelhakayad.github.io/PASSWORD-GENERATOR/)
-
-- 🌱 I’m currently learning **React JS**
-
-- 💬 Ask me about **React JS**
-
 - 📫 How to reach me **abdelhakayad123@gmail.com**
 
 - ⚡ Fun fact **I think i'm LEGEND HH**
